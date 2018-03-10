@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/kenvilar/serverless-rest-api/issues"
   },
-  "homepage": "https://github.com/kenvilar/serverless-rest-api#readme"
+  "homepage": "https://github.com/kenvilar/serverless-rest-api#readme",
+  "dependencies": {
+    "serverless": "^1.26.1"
+  }
 }
