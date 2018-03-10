@@ -63,7 +63,7 @@ functions:
 #    Check the event documentation for details
     events:
       - http:
-          path: hello/create
+          path: hello/get
           method: get
 #      - s3: ${env:BUCKET}
 #      - schedule: rate(10 minutes)
