@@ -7,4 +7,6 @@ Core Service for a Notes REST API
 #####Commands
 * `serverless config credentials --provider aws --key accesskey --secret secretaccesskey`       (change the 'accesskey' and 'secretaccesskey' with your existing key credentials)
 * `serverless create --template aws-nodejs --path kenService`   (create a boilerplate for a service)
+* `cd <name-of-service>`    (get inside to the service folder)
+* `sls deploy -v`   (deploy verbose)
 * todo
