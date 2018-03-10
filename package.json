@@ -1,0 +1,25 @@
+{
+  "name": "serverless-rest-api",
+  "version": "1.0.0",
+  "description": "Core Service for a Notes REST API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenvilar/serverless-rest-api.git"
+  },
+  "keywords": [
+    "serverless",
+    "javascript",
+    "rest-api",
+    "aws"
+  ],
+  "author": "Ken Vilar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenvilar/serverless-rest-api/issues"
+  },
+  "homepage": "https://github.com/kenvilar/serverless-rest-api#readme"
+}
